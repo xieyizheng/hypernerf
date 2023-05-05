@@ -14,5 +14,8 @@ opt-einsum==3.3.0
 optax==0.0.9
 Pillow==9.0.0
 scipy==1.7.1
-tensorflow==2.6.3
+tensorflow==2.7
 tqdm==4.62.2
+mediapy
+-f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
