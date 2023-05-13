@@ -17,6 +17,7 @@ scipy==1.7.1
 tensorflow==2.7
 tqdm==4.62.2
 mediapy
+tensorflow_graphics
 git+https://github.com/google/hypernerf
 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 
