@@ -18,6 +18,8 @@ tensorflow==2.7
 tqdm==4.62.2
 mediapy
 tensorflow_graphics
+git+https://github.com/google/nerfies.git@v2
+git+https://github.com/google/nerfies.git#egg=pycolmap&subdirectory=third_party/pycolmap
 git+https://github.com/google/hypernerf
 -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 
